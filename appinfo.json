@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Neil Guertin",
+    "longName": "Tutorial",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Tutorial",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "2fcc9171-0fc0-4980-8f8b-d1db6c5d10e6",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
